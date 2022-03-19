@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\new\\exemplo04"
+		},
+		{
+			"path": "..\\..\\app"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo01"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo02"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo03"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo05"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo06"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo07"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo08"
+		},
+		{
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\exemplo09"
+		}
+	],
+	"settings": {}
+}
